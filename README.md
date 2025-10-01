@@ -4,7 +4,15 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&text=HyunwooJung&color=9BCBEB&height=150&fontColor=ffffff&fontSize=70&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
 ## Hi there 👋
-👑
+
+### ✍🏻 Education ✍🏻
+- M.S in Statistics and Data Science, University of Seoul `Mar.2026(Expected) - ` (MLALab : [👨🏻‍🏫](https://sites.google.com/view/yykim/home))
+- B.S in Statistics, University of Seoul `Mar.2020 - Feb.2026(Expected)`
+
+<br/>
+<br/>
+
+
 <!--
 **Hyunwoo-Jung/Hyunwoo-Jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
