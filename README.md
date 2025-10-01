@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=#0077C8&height=150&section=header&text=HyunwooJung&)
+![header](https://capsule-render.vercel.app/api?type=soft&color=#0077C8&height=150&section=header&text=HyunwooJung)
 
 ## Hi there 👋
 👑
