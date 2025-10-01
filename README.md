@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 🎓🧑‍🎓
-### ✍🏻 Education ✍🏻
+### 🎓 Education
 - M.S in Statistics and Data Science, University of Seoul `Mar.2026(Expected) - ` (MLALab : [👨🏻‍🏫](https://sites.google.com/view/yykim/home))
 - B.S in Statistics, University of Seoul `Mar.2020 - Feb.2026(Expected)`
 
