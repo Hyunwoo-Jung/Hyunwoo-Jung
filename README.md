@@ -1,7 +1,7 @@
 <div align=center>
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=soft&height=150&text=HyunwooJung&theme=algolia)
+![header](https://capsule-render.vercel.app/api?type=soft&text=HyunwooJung&fontAlign=50&fontAlignY=35&fontSize=40&theme=algolia)
 
 ## Hi there 👋
 👑
