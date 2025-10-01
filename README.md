@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=soft)
+![header](https://capsule-render.vercel.app/api?type=soft&color=#0077C8&height=150&section=header&text=HyunwooJung&)
 
 ## Hi there 👋
-
+👑
 <!--
 **Hyunwoo-Jung/Hyunwoo-Jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
