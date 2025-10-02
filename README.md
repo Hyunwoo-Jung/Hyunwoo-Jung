@@ -23,7 +23,7 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunwoo-Jung&langs_count=5&layout=compact)](https://github.com/jogilsang/jogilsang)
-<img src="https://github-readme-stats.vercel.app/api?username=haileelog&show_icons=true&count_private=true&hide_border=true" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hyunwoo-Jung&show_icons=true&count_private=true&hide_border=true" align="center" />
 
 ### 📝 Blog
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
